@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+    color: #333;
+}
+a,span{  
+    /* width: 50px; */
+    height: 30px;
+    line-height: 30px;
+    padding: 4px 8px;
+    border-radius: 4px;
+    text-align: center;
+    text-emphasis: 0;
+    background-color: #999;
+    color: #fff;
+    margin: 20px auto;
+    text-decoration: navajowhite;
+    display: block;
+    text-indent: 0;
+}
+table{
+    margin: 0 auto;
+    min-width: 800px;
+    text-align: left;
+    text-indent: 10px;
+}
+table td{
+    color: #666;
+}
+
+form{
+    width: 400px;
+    margin: 30px auto;
+}
+p{
+    padding-bottom: 20px;
+}
+label{
+    display: block;
+}
+input,textarea{
+    width: 100%;
+    display: block;
+    /* margin-top: 20px; */
+}
+input[type="date"]{
+    width: 140px;
+}
+textarea{
+    height: 100px;
+}
+.btn-sr input{
+    width: 50px;
+    float: left;
+    margin: 20px 20px 0 0;
+}
+.box{
+    width: 40%;
+    margin: 0 auto;
+}

@@ -1,0 +1,4 @@
+Host 101.200.59.235
+HostName 101.200.59.235
+PreferredAuthentications publickey
+IdentityFile ~/.ssh/rys_rsa
